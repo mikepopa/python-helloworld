@@ -1,0 +1,1 @@
+git+https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/mikepopa/python-helloworld.git
